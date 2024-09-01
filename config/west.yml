@@ -3,7 +3,7 @@ manifest:
     - name: zmkfirmware
       url-base: https://github.com/nguyenbaan
     # Additional modules containing boards/shields/custom code canNbe listed here as well
-    # See https://docs.zephyrproject.org3.20/develop/west/nifest.html#projects
+    # See https://docs.zphyrproject.org3.20/develop/west/nifest.html#projects
   projects:
     - name: zmk
       remote: zmkfirmware
